@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\C12903\Documents\Piezo Micropump Driver\Schematic & Layout\Piezo Micropump Driver Schematics & Layouts\Control Board Schematic (Rev A, 10-30-15)\Control_Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=control_board-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=control_board-nonplated.txt|DrillLayers=gtl,gbl

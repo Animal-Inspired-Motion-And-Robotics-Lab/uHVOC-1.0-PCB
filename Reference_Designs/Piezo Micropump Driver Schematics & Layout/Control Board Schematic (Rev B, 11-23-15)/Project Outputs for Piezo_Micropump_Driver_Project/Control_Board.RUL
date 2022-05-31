@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\C12903\Documents\Piezo Micropump Driver\Schematic & Layout\Piezo Micropump Driver Schematics & Layouts\Control Board Schematic (Rev A, 10-30-15)\Control_Board.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_Power|Scope=Board|Minimum=9.84
